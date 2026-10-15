@@ -1,11 +1,15 @@
-# OpenFC-Lite
+<p align="center">
+  <img src="images/droneaid-logo.svg" width="154" height="30" alt="DroneAid" />
+</p>
+
+# DroneAid OpenFC-Lite
 
 Open source Betaflight flight controller built on the RP2354B, 30.5 x 30.5 mm
-mounting pattern, part of the incutec OpenDrone line.
+mounting pattern, part of the DroneAid hardware lineup.
 
 <p>
-<img src="images/front.png" width="400" alt="OpenFC-Lite top" />
-<img src="images/back.png" width="400" alt="OpenFC-Lite bottom" />
+<img src="images/front.png" width="400" alt="DroneAid OpenFC-Lite top" />
+<img src="images/back.png" width="400" alt="DroneAid OpenFC-Lite bottom" />
 </p>
 
 [![Status](https://img.shields.io/endpoint?url=https://opendrone.be/api/status/OpenFC-Lite.json)](https://github.com/OpenDrone-hw/.github/blob/main/CONTRIBUTING.md#the-life-of-a-project)

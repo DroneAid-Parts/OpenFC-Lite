@@ -1,4 +1,4 @@
-# OpenFC-Lite
+# DroneAid OpenFC-Lite
 
 Open-Source RP2350 based Flight Controller (FC), 30.5 x 30.5 mm mounting
 pattern (FPV Drone standard). Part of OpenDrone by Incutec product lineup.
